@@ -19,7 +19,7 @@ Maintainer: [@renfeng](https://github.com/renfeng).
 License
 --------
 
-    © 2013-2016 GDG[x]
+    © 2013-2017 GDG[x]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
